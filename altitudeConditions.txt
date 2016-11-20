@@ -1,0 +1,4 @@
+       Altitude varies greatly based on balloon size, payload, and volume of helium. For a 600g balloon, we can expect anywhere from 60,000 to 110,000 feet of altitude from payloads from 1 to 12 pounds. Below are some resources to consider using:
+       Balloon Performance Calculator: http://tools.highaltitudescience.com/
+       Measurements at Altitude: http://www.engineeringtoolbox.com/standard-atmosphere-d_604.html
+       At the lowest estimate of 60,000 feet above sea level, we have a temperature of -26.13 C, pressure of 21.96 pascals, and air density of 0.03097 kg/m^3.
