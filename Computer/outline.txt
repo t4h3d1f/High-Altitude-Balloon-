@@ -1,0 +1,17 @@
+Computer system
+
+Overhead
+	Initialize memory and sensors
+	Register sensors
+		Test read and write
+		Give the ok or not
+	
+	Register timer
+	Register communication system
+		Test write to comms system
+		Wait for callback?
+	
+	Register heater
+		Test heating system based on temp readings
+
+	Run loop
