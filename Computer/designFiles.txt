@@ -1,0 +1,15 @@
+Init barometer
+
+Init magnetometer
+
+Init temperature
+
+Init gps
+
+Init geigerometer
+
+Init cameras
+
+Init and check memory
+
+Run through twenty seconds of taking data
